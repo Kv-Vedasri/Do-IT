@@ -1,4 +1,4 @@
-## Simple Todo List App Docs
+## Simple Todo List App 
 
 ## 1. Introduction
 
